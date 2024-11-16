@@ -1,14 +1,6 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-# Places To Post Your Startup
-
-##### The [mmccaff/PlacesToPostYourStartup repository on GitHub](https://github.com/mmccaff/PlacesToPostYourStartup) is automatically mirrored to [PlacesToPostYourStartup.com](https://www.placestopostyourstartup.com)
-
-Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) which referenced [this HN post](https://news.ycombinator.com/item?id=6492109).
-
-Click a link to jump to the appropriate section. Both sections are organized alphabetically.
-
-[Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
+# 创业公司发布平台指南
+ - 如果你正在寻找各种平台来发布你的创业公司。
+ - 以下内容汇总了一些 Reddit 社区和网站，供你发布你的创业项目。
 
 # Reddit
 

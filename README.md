@@ -49,3 +49,16 @@
 * Startup Stash - http://startupstash.com/
 * Venture Beat - http://venturebeat.com/news-tips/
 * Ycombinator - https://news.ycombinator.com/
+
+# Telegram marketing
+* 为你的频道和群组增加真实或虚假的成员。
+* 增加频道帖子浏览量。
+* 提高点赞、投票和投票调查的数量。
+* 批量发送消息和广告给电话号码或 Telegram 用户。
+* 在各个 Telegram 群组中批量发布广告和服务信息。
+* 提高你的信号曝光率。
+* 添加你喜欢的人到群组或频道。
+* 保存其他群组或频道的成员，并转移到你的频道或群组。
+* 自动获取虚拟号码并创建 Telegram 账户。
+* 保持你的频道和群组免受垃圾信息、恶意消息和机器人攻击，并进行专业管理。
+

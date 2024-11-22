@@ -50,6 +50,11 @@
 * Venture Beat - http://venturebeat.com/news-tips/
 * Ycombinator - https://news.ycombinator.com/
 
+# 如果面向开发者
+ - 掘金社区
+ - 阿里云社区
+ - 腾讯云社区
+
 # Telegram marketing
 * 为你的频道和群组增加真实或虚假的成员。
 * 增加频道帖子浏览量。
